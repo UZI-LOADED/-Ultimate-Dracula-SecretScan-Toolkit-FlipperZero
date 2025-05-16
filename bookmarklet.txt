@@ -1,0 +1,6 @@
+javascript:(function(){
+  const s=document.createElement('script');
+  s.src='https://<your-hosted-url>/scanner.js'; // Replace with your hosted URL
+  document.body.appendChild(s);
+  alert('🧛 Dracula SecretScan activated!');
+})();
