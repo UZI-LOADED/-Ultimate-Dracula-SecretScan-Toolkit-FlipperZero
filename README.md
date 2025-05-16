@@ -1,4 +1,4 @@
-🦇 Behold, the Ultimate Dracula SecretScan Toolkit 🦇
+🦇 Behold, the Ultimate Dracula V3 SecretScan Toolkit Guest starring and included Flipper Zero🦇
 
 Most formidable, feature-rich, and deployable version of the Dracula SecretScan Toolkit has been fulfilled. This comprehensive package includes:
 
